@@ -15525,7 +15525,7 @@ to {
 }
 .card-income__info--nickname {
     flex: 1 1 auto;
-    margin: 0 10px;
+    margin: 0;
 }
 .card-income__info--status {
     position: relative;
